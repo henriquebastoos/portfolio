@@ -15,6 +15,6 @@
       "name": "portfólio",
       "image": "./assets/portf.png",
       "tags": ["HTML", "CSS", "JavaScript"],
-      "link": "#"
+      "link": "https://henriquecabral.netlify.app/"
     }
   ]
