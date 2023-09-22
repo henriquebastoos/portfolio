@@ -1,0 +1,20 @@
+[
+    {
+      "name": "front-end-cadastro-web",
+      "image": "./assets/front-end-cadastro-web.png",
+      "tags": ["HTML", "CSS"],
+      "link": "https://github.com/henriquebastoos/front-end-cadastro-web"
+    },
+      {
+      "name": "front-end-tela-inicial-netflix",
+      "image": "./assets/netflix.png",
+      "tags": ["HTML", "CSS"],
+      "link": "https://github.com/henriquebastoos/front-end-tela-inicial-netflix"
+    },
+      {
+      "name": "portfólio",
+      "image": "./assets/portf.png",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "link": "#"
+    }
+  ]
